@@ -1,0 +1,9 @@
+{
+"authCode" : "Gets",
+"status" : "1",
+"errorCode" : "",
+"errorMsg" : "",
+"freightBookingId" : "B12387656",
+"bookingStatus": 5102,
+"prevBookingStatus": 5101
+}
