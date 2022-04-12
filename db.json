@@ -1,8 +1,8 @@
-{"booking":[{
+{"booking":{
 "authCode" : "Gets",
 "status" : "1",
 "errorCode" : "",
 "freightBookingId" : "B12387656",
 "bookingStatus": 5102
-}]
+}
 }
